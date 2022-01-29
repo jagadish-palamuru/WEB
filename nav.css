@@ -1,0 +1,21 @@
+nav a{
+    text-decoration: none;
+    padding:10px;
+    float:left;
+    text-align:center;
+    color:white;
+    background-color: black;
+}
+nav{
+    background-color: black;
+    padding:10px;
+    font-size: 30px;
+    overflow: hidden;
+}
+
+nav a:hover{
+    color:tomato;
+}
+nav a:visited{
+    color:blue;
+}
